@@ -1,0 +1,2 @@
+m:  $(HOME)/Gitassignment2/sources/main.cpp $(HOME)/Gitassignment2/sources/Tamer.cpp $(HOME)/Gitassignment2/sources/ZiadSherbiny99.cpp
+	g++ -I $(HOME)/Gitassignemnt2/headers $(HOME)/Gitassignment2/sources/main.cpp $(HOME)/Gitassignment2/sources/Tamer.cpp $(HOME)/Gitassignment2/sources/ZiadSherbiny99.cpp -o m
